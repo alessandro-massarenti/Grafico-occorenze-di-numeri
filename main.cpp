@@ -23,7 +23,6 @@ main()
           }
       }
   }
-  
   for(int j = m; j > 0; j--){
       for(int i = 0; i < 10; i ++){
         if(j <= C[i]){
